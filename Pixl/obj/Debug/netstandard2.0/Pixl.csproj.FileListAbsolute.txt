@@ -1,0 +1,9 @@
+C:\Users\antho\source\repos\PixelEngine\Pixl\bin\Debug\netstandard2.0\Pixl.deps.json
+C:\Users\antho\source\repos\PixelEngine\Pixl\bin\Debug\netstandard2.0\Pixl.dll
+C:\Users\antho\source\repos\PixelEngine\Pixl\bin\Debug\netstandard2.0\Pixl.pdb
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.AssemblyInfo.cs
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.dll
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.pdb
+C:\Users\antho\source\repos\PixelEngine\Pixl\obj\Debug\netstandard2.0\Pixl.csprojAssemblyReference.cache
