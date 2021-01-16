@@ -11,23 +11,23 @@ namespace Test
 
         public override void Initialize()
         {
-            base.Initialize();
+            Window.SetMouseVisibility(true);
         }
 
         public override void LoadContent()
         {
-            base.LoadContent();
+            Level.Change(new BasicLevel());
         }
 
         public override void Update()
         {
-            base.Update();
+            
         }
 
         public override void Draw()
         {
             
-            base.Draw();
+            
         }
 
     }

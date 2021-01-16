@@ -1,7 +1,10 @@
-﻿using Pixl.Internal;
+﻿using Pixl;
+using Pixl.Internal;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Test.Graphics;
+using Test.Object;
 
 namespace Test
 {
@@ -9,23 +12,22 @@ namespace Test
     {
         public override void Initialize()
         {
-            base.Initialize();
+            
         }
 
         public override void LoadContent()
         {
-            base.LoadContent();
+            
         }
 
         public override void Update()
         {
-            base.Update();
+
         }
 
         public override void Draw()
         {
-
-            base.Draw();
+            new NormalRectangle().Draw();
         }
 
     }
